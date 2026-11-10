@@ -1,0 +1,19 @@
+node_modules
+.env
+.env.*
+!.env.example
+# Hardhat
+contracts/artifacts
+contracts/cache
+contracts/types
+contracts/coverage
+contracts/ignition/deployments/chain-31337
+# Next.js
+web/.next
+web/out
+web/next-env.d.ts
+.vercel
+.DS_Store
+*.tsbuildinfo
+web/AGENTS.md
+web/CLAUDE.md
