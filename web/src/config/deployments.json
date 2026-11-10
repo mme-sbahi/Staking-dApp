@@ -1,1 +1,9 @@
-{}
+{
+  "11155111": {
+    "chainId": 11155111,
+    "token": "0x6c4e85CBD175fB5b0bDfaf08468F879fE3CA82fb",
+    "staking": "0x96B84194f7cf658543ba39Ead955452B15531b35",
+    "rewardRate": "15854895991",
+    "deployedAt": "2026-11-10T15:27:37.981Z"
+  }
+}
